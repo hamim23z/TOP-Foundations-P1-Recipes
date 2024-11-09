@@ -36,3 +36,38 @@ body, html {
 .home-page-section p {
     font-weight: bold;
 }
+
+#ingredients {
+    color: green;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.image {
+    max-width: 400px;
+    height: auto;
+    display: block;
+    margin: 0 auto;   
+}
+
+#ingredients-list {
+    text-align: center;
+    text-decoration: none;
+}
+
+#ingredients-list li {
+    text-decoration: none;
+    list-style: none;
+}
+
+#steps {
+    color: green;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#steps-list {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+  }
